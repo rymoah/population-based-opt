@@ -7,8 +7,8 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 ## Syllabus
 
 - [Background on optimisation problems and single-state optimisation methods: gradient descent, hill-climbing, simulated annealing](https://github.com/rymoah/population-based-opt/tree/master/lecture_1_intro)
-- Genetic Algorithms
-- Genetic Programming
+- [Genetic Algorithms](https://github.com/rymoah/population-based-opt/tree/master/lecture_2_ga)
+- [Genetic Programming](https://github.com/rymoah/population-based-opt/tree/master/lecture_3_gp)
 - Evolutionary Strategies and Differential Evolution
 - Swarm Intelligence: Particle Swarm Optimisation, Ant Colony Optimisation and Artificial Bee Colony Optimisation
 - Representation for particular problems (lists, graph, rules)
@@ -24,7 +24,7 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 
 ## Suggested Readings
 
-All the references mentioned below are freely available on the Internet.
+All the references mentioned below are available on the Internet. Most of the books are freely available from the linked websites.
 
 ### Books
 
