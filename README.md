@@ -9,10 +9,10 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 - [Background on optimisation problems and single-state optimisation methods: gradient descent, hill-climbing, simulated annealing](https://github.com/rymoah/population-based-opt/tree/master/lecture_1_intro)
 - [Genetic Algorithms](https://github.com/rymoah/population-based-opt/tree/master/lecture_2_ga)
 - [Genetic Programming](https://github.com/rymoah/population-based-opt/tree/master/lecture_3_gp)
-- [Evolution Strategies]((https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed) and Differential Evolution
+- [Evolution Strategies](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed) and Differential Evolution
 - Swarm Intelligence: Particle Swarm Optimisation, Ant Colony Optimisation and Artificial Bee Colony Optimisation
-- [Representation for particular problems (lists, graph, rules)]((https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed))
-- [Distributed models (islands, master/slave)]((https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed))
+- [Representation for particular problems (lists, graph, rules)](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed)
+- [Distributed models (islands, master/slave)](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed)
 - Multi-objective optimisation
 - Implementation on HPC: advantages and common pitfalls
 - Coevolution
