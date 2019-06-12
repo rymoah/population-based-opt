@@ -42,3 +42,5 @@ In this section, we gather surveys on the state of the art of metaheuristic/bio-
 - [Bio-inspired computation: Where we stand and what’s next](https://www.sciencedirect.com/science/article/pii/S2210650218310277)
 - [Metaheuristics -- the metaphor exposed](https://www.cs.ubc.ca/~hutter/EARG.shtml/stack/2013_Sorensen_MetaheuristicsTheMetaphorExposed.pdf)
 - [Complexity Theory and the No Free Lunch Theorem](http://www.cs.colostate.edu/~genitor/2005/WhitleyCh10.pdf)
+- [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z)
+- [DENSER: Deep Evolutionary Network Structured Representation](https://arxiv.org/abs/1801.01563)
