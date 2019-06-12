@@ -16,7 +16,7 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 - Multi-objective optimisation
 - Implementation on HPC: advantages and common pitfalls
 - Coevolution
-- Hybrid algorithms: neuro-evolution
+- Neuroevolution
 - Practical Application #1: parameter estimation in Systems Biology
 - Practical Application #2: construction of Boolean functions for cryptography
 - Runtime analysis and theory of evolutionary computation
