@@ -18,7 +18,7 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 - Coevolution
 - Neuroevolution
 - Practical Application #1: parameter estimation in Systems Biology
-- Practical Application #2: construction of Boolean functions for cryptography
+- [Practical Application #2: construction of Boolean functions for cryptography](https://github.com/rymoah/population-based-opt/tree/master/lecture_9_crypto)
 - Runtime analysis and theory of evolutionary computation
 
 
