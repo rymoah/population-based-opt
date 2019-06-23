@@ -15,8 +15,8 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 - [Distributed models (islands, master/slave)](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed)
 - Multi-objective optimisation
 - Implementation on HPC: advantages and common pitfalls
-- Coevolution
-- Neuroevolution
+- [Coevolution](https://github.com/rymoah/population-based-opt/tree/master/lecture_8_coevo_neuroevo)
+- [Neuroevolution](https://github.com/rymoah/population-based-opt/tree/master/lecture_8_coevo_neuroevo)
 - Practical Application #1: parameter estimation in Systems Biology
 - [Practical Application #2: construction of Boolean functions for cryptography](https://github.com/rymoah/population-based-opt/tree/master/lecture_9_crypto)
 - Runtime analysis and theory of evolutionary computation
