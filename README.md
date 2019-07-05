@@ -9,18 +9,17 @@ Instructors: Luca Manzoni, Luca Mariot, Marco S. Nobile
 - [Background on optimisation problems and single-state optimisation methods: gradient descent, hill-climbing, simulated annealing](https://github.com/rymoah/population-based-opt/tree/master/lecture_1_intro)
 - [Genetic Algorithms](https://github.com/rymoah/population-based-opt/tree/master/lecture_2_ga)
 - [Genetic Programming](https://github.com/rymoah/population-based-opt/tree/master/lecture_3_gp)
-- [Evolution Strategies](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed) and Differential Evolution
-- Swarm Intelligence: Particle Swarm Optimisation, Ant Colony Optimisation and Artificial Bee Colony Optimisation
+- [Evolution Strategies](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed) and [Differential Evolution](https://github.com/rymoah/population-based-opt/tree/master/lecture_4_de_and_swarm)
+- [Swarm Intelligence: Particle Swarm Optimisation, Ant Colony Optimisation and Artificial Bee Colony Optimisation](https://github.com/rymoah/population-based-opt/tree/master/lecture_4_de_and_swarm)
 - [Representation for particular problems (lists, graph, rules)](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed)
 - [Distributed models (islands, master/slave)](https://github.com/rymoah/population-based-opt/tree/master/lecture_5_distributed)
-- Multi-objective optimisation
+- [Multi-objective optimisation](https://github.com/rymoah/population-based-opt/tree/master/lecture_6_multiobjective)
 - Implementation on HPC: advantages and common pitfalls
 - [Coevolution](https://github.com/rymoah/population-based-opt/tree/master/lecture_8_coevo_neuroevo)
 - [Neuroevolution](https://github.com/rymoah/population-based-opt/tree/master/lecture_8_coevo_neuroevo)
-- Practical Application #1: parameter estimation in Systems Biology
+- [Practical Application #1: parameter estimation in Systems Biology](https://github.com/rymoah/population-based-opt/tree/master/lecture_7_sysbio)
 - [Practical Application #2: construction of Boolean functions for cryptography](https://github.com/rymoah/population-based-opt/tree/master/lecture_9_crypto)
 - Runtime analysis and theory of evolutionary computation
-
 
 ## Suggested Readings
 
